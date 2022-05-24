@@ -1,0 +1,40 @@
+.divCarros, .divMotos{
+    background-color: rgb(206, 195, 195);
+    border-radius:10px;
+}
+
+.divCarros h4, .divMotos h4{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family:fantasy;
+}
+
+.carousel-inner img{
+    border-radius:20px;
+}
+
+.bar{
+    height:5px;
+    width: 100vw;
+    background-color:#4e4b4b;
+    margin: 10px;
+}
+
+body{
+    overflow-x:hidden;
+}
+
+footer{
+    height:100px;
+    width: 100vw;background-color:#4e4b4b;
+    margin-top: 30px;
+}
+
+footer div{
+    padding-top: 15px;
+    color: white;
+}
+
